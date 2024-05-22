@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Candidates">414e2dc783b182103533cf50ceaad32f</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-30 20:09:45</sys_created_on>
+        <sys_id>4840f18b83b182103533cf50ceaad369</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Candidates.catalog_candidates</sys_name>
+        <sys_package display_value="Internship bank" source="x_1306924_intern">752b5c3283f502103533cf50ceaad348</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_candidates">8c40f18b83b182103533cf50ceaad367</sys_portal_page>
+        <sys_scope display_value="Internship bank">752b5c3283f502103533cf50ceaad348</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_4840f18b83b182103533cf50ceaad369</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-30 20:09:45</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

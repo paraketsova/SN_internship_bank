@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f991acb2837902103533cf50ceaad363" label="Internship Candidates" max_length="40" name="x_1306924_intern_internship_candidates" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Additional Information" max_length="400" name="additional_information" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last name" max_length="50" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Linkedin profile link" max_length="1024" name="linkedin_profile" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Major" max_length="80" name="major" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
+        <element label="Related work experience" max_length="40" name="related_work_experience" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="gymnasium/high school (gymnasieskola)" label="Relevant Educational level" max_length="40" name="relevant_educational_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Gymnasium/High School (Gymnasieskola)" sequence="0" value="gymnasium/high school (gymnasieskola)"/>
+                <element inactive_on_update="false" label="Professional Degrees" sequence="1" value="professional degrees"/>
+                <element inactive_on_update="false" label="Bachelor's level" sequence="2" value="bachelor's level"/>
+                <element inactive_on_update="false" label="Engineer's level" sequence="3" value="engineer's level"/>
+                <element inactive_on_update="false" label="Master's level" sequence="4" value="master's level"/>
+                <element inactive_on_update="false" label="Doctoral level" sequence="5" value="doctoral level"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Technical Skills" max_length="40" name="technical_skills" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="University / YH" max_length="40" name="university_yh" type="choice">
+            <choice/>
+        </element>
+        <element label="Node.js" max_length="40" name="u_boolean_10" type="boolean"/>
+        <element label="MariaDB" max_length="40" name="u_boolean_11" type="boolean"/>
+        <element label="Angular" max_length="40" name="u_boolean_12" type="boolean"/>
+        <element label="ServiceNow" max_length="40" name="u_boolean_13" type="boolean"/>
+        <element label="REST APIs" max_length="40" name="u_boolean_14" type="boolean"/>
+        <element label="JavaScript" max_length="40" name="u_boolean_8" type="boolean"/>
+        <element label="TypeScript" max_length="40" name="u_boolean_9" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="4" label="Related work experience, year" max_length="40" name="u_choice_6" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="5 - 10" sequence="5" value="5 - 10"/>
+                <element inactive_on_update="false" label="&gt; 10" sequence="6" value="&gt; 10"/>
+            </choice>
+        </element>
+        <element label="New Due Date" max_length="40" name="u_due_date_1" type="due_date"/>
+        <element label="CV attachment" max_length="40" name="u_file_attachment_3" type="file_attachment"/>
+        <element label="Photo" max_length="40" name="u_file_attachment_4" type="file_attachment"/>
+        <element attributes="array=denormalized,no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_1" type="glide_list"/>
+        <element choice="1" label="Related work experience, year" max_length="40" name="u_integer_2" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element label="New Long" max_length="19" name="u_longint_2" type="longint"/>
+        <element attributes="edge_encryption_enabled=true" label="University / YH" max_length="120" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Degree Specialization" max_length="120" name="u_string_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="GitHub link" max_length="1024" name="u_url_1" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Personal site link" max_length="1024" name="u_url_2" type="url"/>
+    </element>
+</database>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Internship Bank - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="internship_bank">cb10af7a83f542103533cf50ceaad363</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-30 09:40:17</sys_created_on>
+        <sys_id>07206f7a83f542103533cf50ceaad349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Internship Bank - Container 1</sys_name>
+        <sys_package display_value="Internship bank" source="x_1306924_intern">752b5c3283f502103533cf50ceaad348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Internship bank">752b5c3283f502103533cf50ceaad348</sys_scope>
+        <sys_update_name>sp_container_07206f7a83f542103533cf50ceaad349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-30 09:40:17</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Internship bank">752b5c3283f502103533cf50ceaad348</application>
+        <file_path/>
+        <instance_id>70853b57dbd90ad4ebdd2a5913961905</instance_id>
+        <instance_name>dev257581</instance_name>
+        <name>sp_container_07206f7a83f542103533cf50ceaad349</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Internship Bank - Container 1</name><order>1</order><semantic_tag/><sp_page display_value="internship_bank">cb10af7a83f542103533cf50ceaad363</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-30 09:40:17</sys_created_on><sys_id>07206f7a83f542103533cf50ceaad349</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Internship Bank - Container 1</sys_name><sys_package display_value="Internship bank" source="x_1306924_intern">752b5c3283f502103533cf50ceaad348</sys_package><sys_policy/><sys_scope display_value="Internship bank">752b5c3283f502103533cf50ceaad348</sys_scope><sys_update_name>sp_container_07206f7a83f542103533cf50ceaad349</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-30 09:40:17</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-1716830735</payload_hash>
+        <record_name>Internship Bank - Container 1</record_name>
+        <reverted_from/>
+        <source>792b90fa833902103533cf50ceaad385</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-30 09:40:17</sys_created_on>
+        <sys_id>47206f7a83f542103533cf50ceaad34b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f2e6058420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-30 09:40:17</sys_updated_on>
+        <type>Container</type>
+        <update_guid>4b206f7a54f542100a135bb66c9f274a</update_guid>
+        <update_guid_history>4b206f7a54f542100a135bb66c9f274a:-1716830735</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Internship Bank - Container 1">c7302fba83f542103533cf50ceaad307</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-30 09:40:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>0a9c2f90dffc4dee8f32c702f40a6064</sys_id>
+        <sys_metadata>07206f7a83f542103533cf50ceaad349</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Internship Bank - Container 1</sys_name>
+        <sys_package display_value="Internship bank" source="x_1306924_intern">752b5c3283f502103533cf50ceaad348</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Internship bank">752b5c3283f502103533cf50ceaad348</sys_scope>
+        <sys_scope_delete display_value="">07947ccd64c14fd082cbf439cdb2fb19</sys_scope_delete>
+        <sys_update_name>sp_container_07206f7a83f542103533cf50ceaad349</sys_update_name>
+        <sys_update_version display_value="sp_container_07206f7a83f542103533cf50ceaad349">47206f7a83f542103533cf50ceaad34b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-30 09:40:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

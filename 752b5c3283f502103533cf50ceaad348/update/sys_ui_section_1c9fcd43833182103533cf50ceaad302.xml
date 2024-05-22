@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Education" section_id="1c9fcd43833182103533cf50ceaad302" sys_domain="global" table="x_1306924_intern_internship_candidates" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>relevant_educational_level</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-30 19:33:49</sys_created_on>
+            <sys_id>a508edcf837182103533cf50ceaad3ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education" display_value="Education" name="x_1306924_intern_internship_candidates" sys_domain="global" view="Default view">1c9fcd43833182103533cf50ceaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-30 19:33:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_3</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-30 19:33:49</sys_created_on>
+            <sys_id>ad08edcf837182103533cf50ceaad3ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education" display_value="Education" name="x_1306924_intern_internship_candidates" sys_domain="global" view="Default view">1c9fcd43833182103533cf50ceaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-30 19:33:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-30 19:33:49</sys_created_on>
+            <sys_id>a508edcf837182103533cf50ceaad3cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education" display_value="Education" name="x_1306924_intern_internship_candidates" sys_domain="global" view="Default view">1c9fcd43833182103533cf50ceaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-30 19:33:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_5</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-30 19:33:49</sys_created_on>
+            <sys_id>ad08edcf837182103533cf50ceaad3cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education" display_value="Education" name="x_1306924_intern_internship_candidates" sys_domain="global" view="Default view">1c9fcd43833182103533cf50ceaad302</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-30 19:33:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Education</caption>
+            <header>false</header>
+            <name>x_1306924_intern_internship_candidates</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-30 17:46:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c9fcd43833182103533cf50ceaad302</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1306924_intern_internship_candidates</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Internship bank" source="x_1306924_intern">752b5c3283f502103533cf50ceaad348</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Internship bank">752b5c3283f502103533cf50ceaad348</sys_scope>
+            <sys_update_name>sys_ui_section_1c9fcd43833182103533cf50ceaad302</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-30 17:46:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

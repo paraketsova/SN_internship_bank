@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Internship Bank: A centralized platform facilitating the management and tracking of candidates applying for internship positions within a company.</description>
+        <device_type>browser</device_type>
+        <hint>Internship Bank: A centralized platform facilitating the management and tracking of candidates applying for internship positions within a company.</hint>
+        <name/>
+        <order/>
+        <roles>admin,x_1306924_intern.request_user,x_1306924_intern.request_manager</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-29 19:49:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5422207e833902103533cf50ceaad333</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Internship bank</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Internship bank" source="x_1306924_intern">752b5c3283f502103533cf50ceaad348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Internship bank">752b5c3283f502103533cf50ceaad348</sys_scope>
+        <sys_update_name>sys_app_application_5422207e833902103533cf50ceaad333</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-29 19:49:58</sys_updated_on>
+        <title>Internship bank</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
